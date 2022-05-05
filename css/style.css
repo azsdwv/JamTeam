@@ -49,6 +49,9 @@ body{
     padding: 0.5rem 0;
     position: fixed;
 }
+a{
+    color: #fff;
+}
 .nav__flex{
     display: flex;
     justify-content: space-between;
@@ -121,7 +124,7 @@ p.text{
 }
 .dark{
     font-weight: 500;
-    
+    color: #000;
 }
 .footer{
     background-color: #c4c4c4;
